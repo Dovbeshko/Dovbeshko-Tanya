@@ -1,4 +1,4 @@
-!!!!!!!from random import randint
+!!from random import randint
 list=[randint(1,10) for i in range(10)]
 print(list)
 
