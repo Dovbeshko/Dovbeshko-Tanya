@@ -1,4 +1,4 @@
-jjj
+
 def compare(A,B,C):
     while A < B:
         print(A)
@@ -7,3 +7,4 @@ def compare(A,B,C):
 
 
 compare (2,10,1)
+hhhhhhh
